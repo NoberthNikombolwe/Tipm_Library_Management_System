@@ -477,6 +477,25 @@ a{
     padding: 5px;
     width: 400px;
 }
+
+
+/*  ============ ActionTable =========*/
+.ActionTable{
+    background-color: aquamarine;
+    height: 100vh;
+    text-align: left;
+}
+.ActionTable table{
+    padding: 10px 50px;
+}
+.ActionTable th{
+    width: 200px;
+}
+/* .ActionTable thead{
+    
+   background-color: gray;
+} */
+
 @media screen and (max-width: 1024px) {
     .login_form {
         background-color: var(--var-Background-sub);
